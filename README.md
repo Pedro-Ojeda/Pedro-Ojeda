@@ -9,6 +9,8 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
+- <b>Certifications</b>
+  - [CompTIA Network+](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
