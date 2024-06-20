@@ -13,7 +13,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Azure Sentinel Honeypot Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Azure Sentinel Honeypot Home Lab](https://www.youtube.com/watch?v=k_Z-ty0xeno)
 
 <h2> 🤳 Connect with me:</h2>
 
