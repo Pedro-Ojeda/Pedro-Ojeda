@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Password Generator](https://github.com/Pedro-Ojeda/Pedro-Ojeda/blob/main/Password%20Generator)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Pedro-Ojeda/Sentinel-Lab)
 
 <h2>📄 Certifications:</h2>
 
