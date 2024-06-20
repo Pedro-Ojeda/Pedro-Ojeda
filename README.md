@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Password Generator](https://github.com/Pedro-Ojeda/Pedro-Ojeda/blob/main/Password%20Generator)
+  - [Password Generator](https://github.com/Pedro-Ojeda/Python-Practice)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Pedro-Ojeda/Sentinel-Lab)
 
