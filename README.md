@@ -9,7 +9,7 @@
 
 <h2>📄 Certifications:</h2>
 
-  - [CompTIA Network+](https://github.com/joshmadakor1/Sentinel-Lab)
+- [CompTIA Network +](https://www.credly.com/badges/8a4642a5-a2b4-4aec-9df5-4d938b834c24/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
