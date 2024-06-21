@@ -6,6 +6,7 @@
   - [Python Projects](https://github.com/Pedro-Ojeda/Python-Practice)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Pedro-Ojeda/Sentinel-Lab)
+  - [Active Directory Set up and Bulk User Creation](https://github.com/Pedro-Ojeda/Active-Directory)
 
 <h2>📄 Certifications:</h2>
 
