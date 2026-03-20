@@ -42,7 +42,7 @@
 ```yaml
 analyst:
   name       : Pedro Ojeda
-  role       : SOC Analyst / Cybersecurity Student
+  role       : SOC Analyst
   focus      : Threat Detection · Incident Response · Log Analysis
   philosophy : "The best defense is knowing how the offense thinks."
   status     : 🟢 ONLINE — Always monitoring
