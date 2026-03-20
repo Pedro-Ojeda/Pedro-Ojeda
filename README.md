@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Python Projects](https://github.com/Pedro-Ojeda/Python-Practice)
+  - [Python csv-log-reader](https://github.com/Pedro-Ojeda/python-csv-log-reader)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Pedro-Ojeda/Sentinel-Lab)
   - [Active Directory Set Up and Bulk User Creation](https://github.com/Pedro-Ojeda/Active-Directory)
